@@ -200,7 +200,7 @@
   "Features.WaypointManager.Dialogue.ImportConfirmation.RightButtonText": "選択されたインポート",
   "Features.WaypointManager.Dialogue.ImportConfirmation.ConfirmationTitle": "インポートウェイポイントの確認",
   "Features.WaypointManager.Dialogue.ImportConfirmation.ConfirmationMessage": "{0}個のウェイポイントをインポートしようとしています。",
-  "Features.WaypointManager.Dialogue.ImportConfirmation.Delete.Title": "ウェイポイントの削除を確認する",
+  "Features.WaypointManager.Dialogue.ImportConfirmation.Delete.Title": "ウェイポイントの削除を確認",
   "Features.WaypointManager.Dialogue.ImportConfirmation.Delete.Message": "インポートリストからウェイポイントを削除してよろしいですか？",
 
   "Features.WaypointManager.Dialogue.Exports.Title": "ウェイポイントのエクスポート",
